@@ -1,6 +1,7 @@
 # Startup Success Predictor
 
 ![](Images/startup.png)
+![](Images/1.png)
 
 
 ---
