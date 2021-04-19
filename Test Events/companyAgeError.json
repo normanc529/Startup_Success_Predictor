@@ -1,0 +1,22 @@
+{
+  "messageVersion": "1.0",
+  "invocationSource": "DialogCodeHook",
+  "userId": "Edgar",
+  "sessionAttributes": {},
+  "bot": {
+    "name": "StartupSuccessPredictor",
+    "alias": "$LATEST",
+    "version": "$LATEST"
+  },
+  "outputDialogMode": "Text",
+  "currentIntent": {
+    "name": "PredictSuccess",
+    "slots": {
+      "firstName": "Edgar",
+      "companyAge": "1",
+      "lastFunding": "10000",
+      "loanAmount": "250000"
+    },
+    "confirmationStatus": "None"
+  }
+}
